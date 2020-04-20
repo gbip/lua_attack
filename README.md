@@ -41,4 +41,4 @@ Our tentative lies in [bfs.lua](./bfs.lua)
 
 ## Paper
 
-If you read French, you can take a look at [our report](./report.pdf).
+If you read French, you can take a look at [our report](./report/report.pdf).
