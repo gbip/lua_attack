@@ -64,7 +64,6 @@ All the code under this repo is licensed under the *MIT License*, unless specifi
 
 ## Paper
 
-If you read French, you can take a look at [our report](./report/report.pdf) (licensed under [(CC BY-NC-SA 4.0)](https://creativecommo
-ns.org/licenses/by-nc-sa/4.0/)).
+If you read French, you can take a look at [our report](./report/report.pdf)(licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 However our analysis of the video game industry security practices is in English, and is available here : [final presentation](./presentation.pdf) (same license).
